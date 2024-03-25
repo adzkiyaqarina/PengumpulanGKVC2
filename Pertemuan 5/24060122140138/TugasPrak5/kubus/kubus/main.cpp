@@ -1,8 +1,3 @@
-//Nama : Erlan Irhab Ghalib
-//NIM  : 240060121140166
-//Lab : B2
-//Deskripsi : Membuat setiap sisi dari kubus memiliki gambar yang berbeda dan juga berstektur
-
 #include <iostream>
 #include <stdlib.h>
 #ifdef __APPLE__
